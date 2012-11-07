@@ -1,0 +1,8 @@
+* {margin:0; padding:0}
+
+#accordion {width:80%; margin:50px auto}
+.accordion {width:100%;}
+.accordion dt {width:98%; border-bottom:2px solid #55d; padding:8px; font-weight:bold; margin-top:5px; cursor:pointer; background:#ddd}
+.accordion dt:hover {border-bottom:2px solid #d55; padding:8px;}
+.accordion dd {overflow:hidden; background:#eee}
+.accordion span {display:block; width:100%; border:2px solid #9ac1c9; border-top:none; padding:15px}
